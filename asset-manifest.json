@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/order-food-redux/static/css/main.fd0478a1.css",
+    "main.js": "/order-food-redux/static/js/main.a6efc552.js",
+    "static/media/summary-background.jpg": "/order-food-redux/static/media/summary-background.058e3a5749d88597754f.jpg",
+    "static/media/cart.svg": "/order-food-redux/static/media/cart.c36faa3efca4c2a3b7311ff4f8994381.svg",
+    "index.html": "/order-food-redux/index.html",
+    "static/media/plus-icon.svg": "/order-food-redux/static/media/plus-icon.f6449d6005345c09378ddf02e862b973.svg",
+    "main.fd0478a1.css.map": "/order-food-redux/static/css/main.fd0478a1.css.map",
+    "main.a6efc552.js.map": "/order-food-redux/static/js/main.a6efc552.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd0478a1.css",
+    "static/js/main.a6efc552.js"
+  ]
+}
